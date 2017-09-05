@@ -20,6 +20,9 @@
     <!-- LIQUID version -->
     <string name="liquid_version">FrankenRom Build</string>
 
+    <!-- Franken device maintainer name -->
+    <string name="device_maintainer">Maintainer</string>
+
 	<!-- LIQUID about -->
 	<string name="liquid_about_title">About Franken</string>
 	<string name="liquid_about_info">ROM</string>

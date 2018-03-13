@@ -18,21 +18,19 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- LIQUID version -->
-    <string name="liquid_version">Liquid Remix Build</string>
+    <string name="liquid_version">FrankenRom Build</string>
 
 	<!-- LIQUID about -->
-	<string name="liquid_about_title">About Liquid Remix</string>
+	<string name="liquid_about_title">About Franken</string>
 	<string name="liquid_about_info">ROM</string>
-	<string name="liquid_about_info_summary">Liquid Remix is a project reborn by the creator of Liquid Smooth.With the help of Dabug123 they have brought back this amazing project based on lineage os with caf on top.</string>
-	<string name="liquid_about_devs">TeamSmooth</string>
-	<string name="liquid_about_dev_title">Ryan B(liquid0624)</string>
-	<string name="liquid_about_dev_summary">Founder</string>
-	<string name="liquid_about_dev2_title">Paul C (Dabug123)</string>
-	<string name="liquid_about_dev2_summary">CO-Lead/Kernel Dev</string>
+	<string name="liquid_about_info_summary">FrankenRom is a liquidremix split done with all the best pieces of all the roms to form Franken</string>
+	<string name="liquid_about_devs">TeamFranken</string>
+	<string name="liquid_about_dev_title">Paul C (Dabug123)</string>
+	<string name="liquid_about_dev_summary">Creator/Kernel Dev</string>
 
 	<!-- Liquid Lounge -->
-    <string name="liquidlounge_title">Liquid Lounge</string>
-    <string name="liquidlounge_activity_summary">Personalize custom features</string>
+    <string name="liquidlounge_title">The Lab</string>
+    <string name="liquidlounge_activity_summary">Step into the Lab</string>
 
     <!-- Dev settings -->
     <string name="show_dev_already_enabled">No Need, Development settings are enabled by default.</string>

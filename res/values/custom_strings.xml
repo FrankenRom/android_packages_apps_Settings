@@ -289,4 +289,7 @@
 <!-- Running services -->
      <string name="background_processes_settings_title">Background processes</string>
 
+<!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+      <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">It\u2019s on the back of your phone. Use any finger.</string>
+
 </resources>

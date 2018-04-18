@@ -309,7 +309,8 @@ public class PowerUsageSummary extends PowerUsageBase implements
                 context, getActivity(), this /* host */, getLifecycle());
         controllers.add(mBatteryHeaderPreferenceController);
         controllers.add(new BatterySaverController(context, getLifecycle()));
-        controllers.add(new BatteryPercentagePreferenceController(context));
+        controllers.add(new BatteryPercentagePreferenceController(context)); 
+		controllers.add(new SmartPixelsPreferenceController(context));
         return controllers;
     }
 

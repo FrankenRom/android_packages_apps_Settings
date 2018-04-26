@@ -17,21 +17,25 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <!-- LIQUID version -->
+    <!-- Franken version -->
     <string name="liquid_version">FrankenRom Build</string>
 
     <!-- Franken device maintainer name -->
     <string name="device_maintainer">Maintainer</string>
 
-	<!-- LIQUID about -->
-	<string name="liquid_about_title">About Franken</string>
-	<string name="liquid_about_info">ROM</string>
-	<string name="liquid_about_info_summary">FrankenRom is a liquidremix split done with all the best pieces of all the roms to form Franken</string>
-	<string name="liquid_about_devs">TeamFranken</string>
-	<string name="liquid_about_dev_title">Paul C (Dabug123)</string>
-	<string name="liquid_about_dev_summary">Creator/Kernel Dev</string>
+    <!-- Franken about -->
+    <string name="liquid_about_title">About Franken</string>
+    <string name="liquid_about_info">ROM</string>
+    <string name="liquid_about_info_summary">FrankenRom is a liquidremix split done with all the best pieces of all the roms to form Franken</string>
+    <string name="liquid_about_devs">TeamFranken</string>
+    <string name="liquid_about_dev_title">Paul C (Dabug123)</string>
+    <string name="liquid_about_dev_summary">Creator/Kernel Dev</string>
+    <string name="franken_telegram_title">FrankenRom Telegram Chat</string>
+    <string name="franken_telegram_summary">Tap here to join our Telegram chat!</string>
+    <string name="franken_gplus_title">Franken GPlus Community</string>
+    <string name="franken_gplus_summary">Tap here to join</string>	
 
-	<!-- Liquid Lounge -->
+    <!-- The Lab -->
     <string name="liquidlounge_title">The Lab</string>
     <string name="liquidlounge_activity_summary">Step into the Lab</string>
 

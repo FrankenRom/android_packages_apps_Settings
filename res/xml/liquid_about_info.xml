@@ -23,7 +23,21 @@
 
     <Preference
         android:summary="@string/liquid_about_info_summary" />
-	
+		
+    <Preference
+        android:title="@string/franken_telegram_title"
+        android:summary="@string/franken_telegram_summary">
+    <intent
+        android:action="android.intent.action.VIEW"
+        android:data="https://t.me/frankenRom" />
+    </Preference>
+    <Preference
+        android:title="@string/franken_gplus_title"
+        android:summary="@string/franken_gplus_summary">
+    <intent
+        android:action="android.intent.action.VIEW"
+        android:data="https://plus.google.com/communities/105044150594083102762" />
+    </Preference>
     </PreferenceCategory>
 
     <!-- Developers -->

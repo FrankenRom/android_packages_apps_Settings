@@ -293,11 +293,11 @@
     <string name="theme_applied_toast">Theme applied.</string>
     <string name="applying_theme_toast">Applying theme, please wait...</string>
 
-<!-- Running services -->
-     <string name="background_processes_settings_title">Background processes</string>
+    <!-- Running services -->
+    <string name="background_processes_settings_title">Background processes</string>
 
-<!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
-      <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">It\u2019s on the back of your phone. Use any finger.</string>
+    <!-- Message shown in fingerprint enrollment dialog to locate the sensor -->
+    <string name="security_settings_fingerprint_enroll_find_sensor_message_custom">It\u2019s on the back of your phone. Use any finger.</string>
 	  
 	<!-- Search -->
     <string name="menu_search">Search apps</string>
@@ -313,4 +313,10 @@
     <string name="android_functional_updates_summary">In addition to AOSP security updates, we include Google\'s functional updates. These are patches that Google push in addition to security updates for Pixel devices to address functionality issues such as connectivity, stability, and performance. Since we support more than just Pixel devices, they are included for all our devices.</string>
     <string name="vendor_security_title">Vendor patch level</string>
 	
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Platform</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Total RAM</string>
+
 </resources>
